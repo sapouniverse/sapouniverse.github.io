@@ -1,4 +1,7 @@
-How To Change GitHub Repository Language 
+---
+layout: single
+title:  "How To Change GitHub Repository Language "
+---
 
 - .gitattributes
 *.py linguist-detectable=true 
