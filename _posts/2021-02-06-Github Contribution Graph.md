@@ -8,7 +8,7 @@ title:  "Github Contribution Graph"
 3. fork 하나만 해도 1Contribution 
 4. github 블로그 포스팅 수정은 
 
-1단계 : 1~2Contribution
-2단계 : 5Contribution
-3단계 : 
-4단계 : 10Contribution
+1단계 : 1~2Contribution \n
+2단계 : 5Contribution\n
+3단계 : \n
+4단계 : 10Contribution\n
